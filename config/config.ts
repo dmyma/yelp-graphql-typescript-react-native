@@ -1,0 +1,2 @@
+export const YELP_TOKEN="iWDctfb2NiChr1_cU3KDzKgOw7rGidJt6QVchMlZp454NeP6PlpHzplOczmYkGbSVCbq6DyuNTP1Lr2qm-gBuqXWlbETQujYxRd0MuOvMZ6BllvObSFEwYq_mmt9XXYx"
+export const BASE_URL="https://api.yelp.com/v3"
